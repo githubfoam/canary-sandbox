@@ -7,4 +7,6 @@ Travis (.com) branch:
 
 ~~~~
 https://linkerd.io/2/getting-started/
+https://kubernetes.io/blog/2020/04/two-phased-canary-rollout-with-gloo/
+https://docs.flagger.app/tutorials/linkerd-progressive-delivery#a-b-testing
 ~~~~
